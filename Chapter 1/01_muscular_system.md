@@ -83,7 +83,9 @@ From outermost(肌肉外部) to innermost(肌肉内部), here is a layer-by-laye
    - The sarcoplasmic reticulum releases calcium ions (Ca²⁺, 钙离子) into the muscle fiber.
 
 3. **Cross-Bridge Formation (肌桥形成)**
-   - Calcium binds to troponin (钙结合到肌钙蛋白), exposing binding sites on the actin filament.
+    - Calcium binds to troponin (钙结合到肌钙蛋白), exposing binding sites on the actin filament.
+      - Tropomyosin: a long, rope-like protein that physically blocks myosin binding sites on actin in a resting muscle
+      - troponin: a globular protein complex attached to tropomyosin that acts as a calcium-sensitive switch
    - Myosin heads (肌球蛋白头部) attach to actin, forming a cross-bridge (肌桥).
 
 4. **Power Stroke (动力冲程)**
@@ -119,8 +121,9 @@ From outermost(肌肉外部) to innermost(肌肉内部), here is a layer-by-laye
 ## Muscle Structure Overview
 
 - **Muscle** - Epimysium covers it
-  - **Fascicles** - Perimysium covers it
-    - **Muscle fibers (cells)** - Endomysium covers them
-      - **Myofibrils**
-        - **Sarcomeres** (sections within myofibrils)
-          - **Myofilaments** (actin, myosin, tropomyosin, troponin)
+  - **Fascicle** - Perimysium covers it
+    - **Endomysium** - section fibers, provide structure
+      - **Muscle fiber (cell)** - Sarcolemma covers it
+        - **Myofibril**
+          - **Sarcomeres** (sections within myofibrils)
+            - **Myofilaments** (actin, myosin, tropomyosin, troponin)
