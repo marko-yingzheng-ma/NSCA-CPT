@@ -190,6 +190,70 @@ Classifies clients into 6 categories based on:
 <br>
 <br>
 
+
+### **Client Intake & Progression Decision Tree**
+
+![alt text](img/client_consultation_flowchat.png)
+
+#### **Phase 1: Pre-Participation Screening (The Gatekeeper)**
+
+This phase uses the **ACSM Algorithm** to determine if medical clearance is needed before proceeding.
+
+1.  **Administer Screening Tools:** Have the client complete:
+    *   **PAR-Q+ (Physical Activity Readiness Questionnaire for Everyone):** The modern, expanded version that is the cornerstone of the ACSM algorithm.
+    *   **Comprehensive Health History Questionnaire:** As detailed in the NSCA text. This gathers info on past and current medical conditions, surgeries, medications, and family history.
+
+2.  **Apply the ACSM Algorithm (The 3 Key Questions):**
+    *   **Step 1: Does the client have a known Cardiovascular, Metabolic, or Renal disease?** (e.g., heart disease, diabetes, kidney disease).
+    *   **Step 2: Does the client report any major ** Signs or Symptoms** suggestive of these diseases?** (e.g., chest pain, shortness of breath at rest, dizziness/fainting, swollen ankles).
+    *   **Step 3: What is the ** desired exercise intensity**?** (Moderate vs. Vigorous).
+
+3.  **The Decision:**
+    *   **YES to either Disease OR Symptoms:** The client is classified as "high risk." **Medical clearance is REQUIRED** before beginning *any* fitness assessment or exercise program.
+    *   **NO to both Disease and Symptoms:** The client is "asymptomatic." Proceed to the intensity question.
+        *   If they plan to do **MODERATE** exercise, they are "apparently healthy" or "low risk." **No medical clearance is needed.** Proceed to consultation.
+        *   If they plan to do **VIGOROUS** exercise, **medical clearance is RECOMMENDED** (though not strictly required) before starting that vigorous activity. Use professional judgment. For a completely asymptomatic client, you may proceed with caution, but for any doubt, err on the side of caution and get clearance.
+
+#### **Phase 2: Client Consultation & Goal Identification (NSCA Process)**
+
+Once medical clearance is obtained (if needed) or deemed unnecessary, you proceed with the consultation.
+
+*   This is where you sit down with the client and discuss their **goals, motivations, past exercise experience, time constraints, and preferences**.
+*   You cannot set effective goals without first knowing if you need medical clearance. This conversation happens *after* the screening hurdle is cleared.
+
+#### **Phase 3: Fitness Testing (Proceed with Caution)**
+
+Fitness testing is only conducted after phases 1 and 2.
+
+*   **Informed Consent:** The client must understand the risks and benefits of each test and provide verbal/written consent.
+*   **Test Selection:** Choose tests that are:
+    *   **Relevant** to the client's goals (e.g., don't test a 1RM bench press for a client whose goal is walking endurance).
+    *   **Appropriate** for their health status and risk stratification (e.g., a submaximal bike test may be safer than a maximal treadmill test for a moderate-risk client).
+    *   **Sequence correctly:** Follow the NSCA's recommended order to prevent fatigue from influencing results: 1) Resting measures, 2) Body composition, 3) Cardiorespiratory, 4) Muscular strength, 5) Muscular endurance, 6) Flexibility.
+
+#### **Phase 4: Program Design & Supervision**
+
+*   **Program Design:** The program is built from the information gathered in *all* previous steps:
+    *   **Health Status** (Phase 1) dictates **contraindications** and **precautions**.
+    *   **Client Goals** (Phase 2) dictate the **training priorities** (e.g., hypertrophy, endurance, health).
+    *   **Fitness Test Results** (Phase 3) provide the **baseline metrics** to determine initial loads, volumes, and intensities and to measure progress.
+
+*   **Supervision Level:** The client's risk stratification directly influences the required level of supervision.
+    *   **Low Risk:** Standard personal training supervision is appropriate.
+    *   **Moderate/High Risk (or those with medical clearance):** Requires enhanced supervision. This means:
+        *   Closer monitoring of heart rate, blood pressure, and perceived exertion (RPE).
+        *   Being vigilant for any signs or symptoms (e.g., unusual shortness of breath, nausea, dizziness).
+        *   Adopting a more conservative approach to progression (e.g., using the **2-for-2 rule** for strength progressions very cautiously).
+        *   Maintaining clear communication with the client's healthcare provider, if applicable and with client consent.
+
+### **Key Takeaways for the Practitioner:**
+
+*   **Safety First:** The screening process is non-negotiable. It protects the client, the trainer, and the facility.
+*   **Document Everything:** Keep copies of the PAR-Q+, health history, medical clearances, and testing results.
+*   **Scope of Practice:** A personal trainer does *not* diagnose. We identify risk and refer to qualified medical professionals.
+*   **It's a Process, Not a One-Time Form:** Client health can change. Re-screen clients periodically (e.g., every 6-12 months) or anytime they report a new diagnosis, symptom, or change in medication.
+*   **When in Doubt, Refer Out:** If you are ever uncertain about a client's readiness to exercise, seek medical clearance. It is always the correct and professional choice.
+
 ![alt text](img/study_questions.png)
 
 ### **Question 1**  

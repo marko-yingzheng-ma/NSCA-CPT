@@ -82,6 +82,7 @@
        - Lean mass  
        - Growth  
        - Hyperthyroidism  
+       
        *Factors decreasing RMR*:  
        - Caloric deficit  
        - Hypothyroidism  

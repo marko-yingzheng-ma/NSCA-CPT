@@ -34,6 +34,7 @@
    - **Validity**: Measures what it claims (e.g., 1RM for strength, not flexibility).  
      - *Face validity*: Test appears appropriate (e.g., BMI for general obesity but not athletes).  
      - *Criterion-related validity*: Field tests compared to lab standards (e.g., submaximal cycle test vs. VO₂ max).  
+     - *Content validity*: a test covers all topics or abilities it should
    - **Objectivity**: Multiple trainers achieve similar results.  
 
 4. **Client Factors Affecting Test Selection**  
